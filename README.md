@@ -1,7 +1,7 @@
 # docker-compose-zabbix-mysql
-#Install docker on Linux michine
+#Install docker on Linux machine
 yum install docker
-# install docker compose  command
+# Install docker compose  command
 Follow below link to install docker0compose
 https://docs.docker.com/compose/install/
 
@@ -12,6 +12,6 @@ step 2) sudo chmod +x /usr/local/bin/docker-compose
 
 
 Step 3) verification
-docker-compose --version
+$docker-compose --version
 
 
