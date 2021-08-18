@@ -1,0 +1,7 @@
+[
+    {
+        "name": "webcontainer",
+        "imageUri": "652908252003.dkr.ecr.us-east-1.amazonaws.com/sreecloud:latest"
+    }
+]
+
